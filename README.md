@@ -26,4 +26,4 @@ Feel free to experiment and create your own drum beats with this simple drum kit
 
 ## Try it Out
 
-You can play the drums by clicking [here](insert_your_link_here).
+You can play the drums by clicking [here](https://adityasingh151.github.io/Drum-Kit/).
